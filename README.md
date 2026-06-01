@@ -223,9 +223,9 @@ python-3.11.9
 
 ---
 
-## 👩‍💻 Autora
+##  Autor
 
-Projeto desenvolvido por Nátaly Antunes Madeira.
+Projeto desenvolvido por Bruno Antunes .
 
 ---
 
